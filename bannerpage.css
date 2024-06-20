@@ -1,0 +1,25 @@
+body {
+    font-size: 25px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.laferarribanner {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    top: 0;
+
+    display: block;
+    width: 100%;
+    height: auto;
+
+    background-image: url("https://cdn.ferrari.com/cms/network/media/img/resize/5ddb97392cdb32285a799dfa-laferrari-2013-share?width=1080");
+}
+
+.laferraribanner h3 {
+    font-family: monospace;
+    font-size: 100px;
+    color: rgb(56, 56, 56);
+    text-align: center;
+}
