@@ -14,7 +14,7 @@ body {
     width: 100%;
     height: auto;
 
-    background-image: url("https://cdn.ferrari.com/cms/network/media/img/resize/5ddb97392cdb32285a799dfa-laferrari-2013-share?width=1080");
+    background-image: url(resources/Laferrari-banner.png);
 }
 
 .laferraribanner h3 {
